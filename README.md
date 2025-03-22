@@ -15,5 +15,5 @@ Logistic Regression - https://towardsdatascience.com/logistic-regression-detaile
 
 
 ## Note
-I could have also used Fashion-MNIST data instead of just MNIST as Fashion_MNIST is a drop-in replacement to MNIST dataset.
+I could have also used Fashion-MNIST data instead of just MNIST as Fashion_MNIST is a drop-in replacement for MNIST dataset.
 
